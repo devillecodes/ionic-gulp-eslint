@@ -1,0 +1,22 @@
+{
+    "name": "ionic-gulp-eslint",
+    "version": "1.0.0",
+    "description": "Gulp task for Ionic projects to lint code using ESLint",
+    "author": "De Ville Weppenaar <deville@devillex.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devillex/ionic-gulp-eslint.git"
+    },
+    "dependencies": {
+        "babel-eslint": "^6.0.2",
+        "gulp": "^3.9.1",
+        "gulp-eslint": "^2.0.0",
+        "lodash.assign": "^4.0.6"
+    },
+    "keywords": [
+        "ionic",
+        "gulp",
+        "eslint"
+    ]
+}
